@@ -1,0 +1,4 @@
+gt4500,2,0,0,0
+Torpedo,Single
+Torpedo,Single
+Torpedo,Single
